@@ -5,6 +5,9 @@ show_downloads: false
 baseurl: "/analisis-matematico-ii" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://ianchu0317.github.io" # change this to the base hostname & protocol for your site
 
+markdown: kramdown
+kramdown:
+  toc_levels: 1..3  # Niveles de headers a incluir (h1 a h3)
 
 google_analytics:
 
@@ -23,6 +26,7 @@ twitter:
 
 plugins:
   - jekyll-target-blank
+  - jekyll-toc
 
 target-blank:
     rel: nofollow
