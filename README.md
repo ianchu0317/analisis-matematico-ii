@@ -13,7 +13,7 @@ Repositorio de apuntes, ejercicios resueltos y material teórico para la materia
 2. Crea una rama con tus cambios `git checkout -b mejora-guia-N-ejercicio-X`
 3. Envía un Pull Request con una descripción clara
 
-**Alternativa**: Envía tus correcciones a chenian317@gmail.com
+**Alternativa**: Avisa las correcciones a chenian317@gmail.com
 
 ## Dudas y correcciones
 Reporta errores incluyendo:
