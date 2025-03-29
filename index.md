@@ -8,10 +8,16 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+Bienvenido al repositorio de Análisis Matemático II (FIUBA).  
+Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio organizado por temas, que voy a estar utilizando personalmente para cursar la materia. 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+##### Cómo usar este material
 
-Have a look at the Github page for more information.
+1. Los contenidos están organizados por **posts**
+2. Para buscar algo específico, podés usar el buscador del navegador (`Ctrl+F`)
+3. Si encontrás errores o querés contribuir, podés:
+   - Hacer un fork y mandar un Pull Request
+   - Reportarlo por mail a [chenian317@gmail.com](mailto:chenian317@gmail.com)
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+
+_Última actualización: {{ "now" | date: "%d/%m/%Y" }}_ 
