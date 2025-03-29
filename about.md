@@ -1,15 +1,27 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Acerca del Blog
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+# Sobre este repositorio
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+## Objetivo
+Material complementario para la cursada de **Análisis Matemático II** en FIUBA.  
+
+
+## Qué hay acá adentro
+- Apuntes **digitalizados**
+- Ejercicios resueltos **de las guías**
+- Finales viejos **con las respuestas correctas** (cuando lo haga xd)
+
+
+## Aviso importante
+- **No es material oficial** de la cátedra (siempre chequear con los docentes)
+- **Si ves algún error**, avisame así lo corregimos entre todos
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
