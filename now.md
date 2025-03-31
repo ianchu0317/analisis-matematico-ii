@@ -1,12 +1,24 @@
 ---
 layout: page
 title: Now
-tagline: What I'm doing now
+tagline: Haciendo ahora
 permalink: /now.html
 ref: now
 order: 2
 ---
 
-This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
+## Enfoque actual
+- **Resumiendo y digitalizando** apuntes de clase.
+
+- **Resolviendo** Guía de Análisis II.
+
+- **Explicando** resoluciones en la página
+
+## En progreso
+
+- **Resumiendo** teoría Guía 3
+
+- **Explicando** resoluciones guía 2.
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})
