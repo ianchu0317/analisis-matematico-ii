@@ -19,5 +19,7 @@ Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio org
    - Hacer un fork y mandar un Pull Request
    - Reportarlo por mail a [iachen@fi.uba.ar](mailto:iachen@fi.uba.ar)
 
+## Formato de los posts
+Cada guía tendrá su propio post con la resolución en PDF y, para los ejercicios relevantes de matemática aplicada se incluirá además una explicación detallada paso a paso debajo del enlace al archivo.
 
-_Última actualización: {{ "now" | date: "%d/%m/%Y" }}_ 
+_Última actualización: {{ "now" | date: "%d/%m/%Y" }}_
