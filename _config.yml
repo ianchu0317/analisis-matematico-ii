@@ -9,7 +9,7 @@ markdown: kramdown
 kramdown:
   toc_levels: 1..3  # Niveles de headers a incluir (h1 a h3)
 
-google_analytics:
+google_analytics: G-6F4CNVHTBT
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
