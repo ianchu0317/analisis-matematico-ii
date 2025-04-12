@@ -4,6 +4,7 @@ show_downloads: false
 
 baseurl: "/analisis-matematico-ii" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://ianchu0317.github.io" # change this to the base hostname & protocol for your site
+lang: "es-AR"
 
 markdown: kramdown
 kramdown:
