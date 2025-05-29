@@ -11,8 +11,9 @@ layout: home
 Repositorio de Análisis Matemático II (FIUBA).  
 Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio organizado por temas y guías. 
 
-[📄 Ver/Descargar Guía 2025](docs/guia1c2025.pdf)
+[📄 Ver/Descargar - Guía 2025](docs/guia1c2025.pdf)
 
+[📄 Ver/Descargar - Parcial 1 2025 (tema 2)](./docs/p1/P1_an2_1C2025.pdf)
 
 ## Cómo usar este material
 
