@@ -15,6 +15,21 @@ Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio org
 
 [📄 Ver/Descargar - Parcial 1 2025 (tema 2)](./docs/p1/P1_an2_1C2025.pdf)
 
+
+## Herramientas útiles
+
+Acá dejo un listado de herramientas que utilizo para estudiar análisis
+
+- [Analisis2.com](https://analisis2.com/) las clases de Maulhardt para teoría.
+
+- [MathGPT](https://math-gpt.org/) bueno para resolución y explicación de ejercicio.
+
+- [Vector Field Grapher](https://www.desmos.com/calculator/eijhparfmd) para visualización de campos vectoriales
+
+- [Geogebra](https://www.geogebra.org/graphing?lang=es) y [Desmos](https://www.desmos.com/3d) para gráfico
+
+
+
 ## Cómo usar este material
 
 1. Los contenidos están organizados por **posts** (como un blog)
