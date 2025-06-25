@@ -28,6 +28,7 @@ Acá dejo un listado de herramientas que utilizo para estudiar análisis
 
 - [Geogebra](https://www.geogebra.org/graphing?lang=es) y [Desmos](https://www.desmos.com/3d) para gráfico
 
+- [Wolfram Alpha](https://www.wolframalpha.com/) para chequear respuestas de cuentas (no tiene paso a paso)
 
 
 ## Cómo usar este material
