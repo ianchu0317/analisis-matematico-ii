@@ -49,4 +49,6 @@ Sirve mucho practicar resolver ejercicios con temporizador.
 
 ## Integradores - Segundo Parcial
 
+[📄 Ver/Descargar Resolución Integrador PDF 27-02-2024 tema 1](../../../../docs/p2/Resolucion_Integrador_27_02_2024.pdf)
+
 
