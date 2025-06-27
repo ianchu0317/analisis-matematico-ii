@@ -53,3 +53,4 @@ Sirve mucho practicar resolver ejercicios con temporizador.
 
 [📄 Ver/Descargar Resolución Integrador PDF 10-12-2024 tema 1](../../../../docs/p2/Resolucion_Integrador_10_12_24.pdf)
 
+[📄 Ver/Descargar Resolución Integrador PDF 25-02-2025 tema 1](../../../../docs/p2/Resolucion_Integrador_25_02_25.pdf)
