@@ -7,21 +7,14 @@ ref: about
 order: 0
 ---
 
-# Sobre este repositorio
+El blog recopila material de estudio, ejercicios resueltos y apuntes de Análisis Matemático II (FIUBA).
+La idea principal es tener todo el contenido organizado y accesible, tanto para consulta personal como para compartir con quienes estén cursando la materia.
 
-## Objetivo
-Material complementario para la cursada de **Análisis Matemático II** en FIUBA.  
+Todo el material está dividido por guías, con resoluciones en PDF, resúmenes teóricos y herramientas útiles para visualizar mejor los conceptos.
 
+Este sitio no reemplaza la bibliografía oficial ni las clases, pero puede servir como apoyo para preparar parciales, finales o simplemente repasar.
 
-## Qué hay acá adentro
-- Apuntes **digitalizados**
-- Ejercicios resueltos **de las guías**
-- Finales viejos **con las respuestas correctas** (cuando lo haga xd)
-
-
-## Aviso importante
-- **No es material oficial** de la cátedra (siempre chequear con los docentes)
-- **Si ves algún error**, avisame así lo corregimos entre todos
+_Última actualización: {{ "now" | date: "%d/%m/%Y" }}_
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
