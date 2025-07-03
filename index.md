@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Repositorio de Análisis Matemático II (FIUBA).  
+Repositorio tipo blog de Análisis Matemático II (FIUBA).  
 Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio organizado por temas y guías. 
 
 [📄 Ver/Descargar - Guía 2025](docs/guia1c2025.pdf)
@@ -33,15 +33,7 @@ Acá dejo un listado de herramientas que utilizo para estudiar análisis
 - [Wolfram Alpha](https://www.wolframalpha.com/) para chequear respuestas de cuentas (no tiene paso a paso)
 
 
-## Cómo usar este material
-
-1. Los contenidos están organizados por **posts** (como un blog)
-2. Para buscar algo específico, podés usar el buscador del navegador (`Ctrl+F`)
-3. Si encontrás errores o querés contribuir, podés:
-   - Hacer un fork y mandar un Pull Request
-   - Reportarlo por mail a [iachen@fi.uba.ar](mailto:iachen@fi.uba.ar)
-
 ## Formato de los posts
-Cada guía tendrá su propio post con la resolución en PDF y, para los ejercicios relevantes de matemática aplicada se incluirá además una explicación detallada paso a paso debajo del enlace al archivo.
+Cada guía tendrá su propio post donde está la resolución completa en PDF junto con un resumen que incluye las fórmulas principales y los conceptos más importantes del tema. Además, en algunos casos hay material adicional que pueden facilitar la visualización, ya que la idea no es solo memorizar las fórmulas, sino entender su origen y cómo se aplican.
 
 _Última actualización: {{ "now" | date: "%d/%m/%Y" }}_
