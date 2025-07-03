@@ -15,6 +15,8 @@ Acá vas a encontrar con apuntes, ejercicios resueltos y material de estudio org
 
 [📄 Ver/Descargar - Parcial 1 2025 (tema 2)](./docs/p1/P1_an2_1C2025.pdf)
 
+[📄 Ver/Descargar - Parcial 2 2025 (tema 2)](./docs/p2/P2_an2_1C2025_t2.pdf)
+
 
 ## Herramientas útiles
 
