@@ -12,6 +12,17 @@ Drive: https://drive.google.com/drive/folders/1yNOO_xZTfvkzmtgGLIlDafg7O18n66kV?
 - Parciales: Exámenes resueltos de años anteriores
 - Gráficos: Visualizaciones de conceptos matemáticos
 
+## Ejecución local
+
+```
+# Instalar dependencias
+bundle install
+
+# Correr con jekyll
+bundle exec jekyll serve
+```
+
+
 ## Template del Sitio
 
 Este repositorio utiliza como base el tema **Cayman-Blog**.  
